@@ -59,17 +59,7 @@ Each team consists of five AI-controlled robots assigned with specific roles—a
 
 ---
 
-## 📁 Folder Structure
-
-MechanixLegions/
-├── Assets/
-│ ├── AI/
-│ ├── Screens/
-│ ├── Scripts/
-│ └── Prefabs/
-├── ProjectSettings/
-└── README.md
-
+<pre> ## 📁 Folder Structure ``` MechanixLegions/ ├── Assets/ │ ├── AI/ │ ├── Screens/ │ ├── Scripts/ │ └── Prefabs/ ├── ProjectSettings/ └── README.md ``` </pre>
 ---
 
 ## 🧪 Testing & Debugging
