@@ -59,9 +59,6 @@ Each team consists of five AI-controlled robots assigned with specific roles—a
 
 ---
 
-<pre> ## 📁 Folder Structure ``` MechanixLegions/ ├── Assets/ │ ├── AI/ │ ├── Screens/ │ ├── Scripts/ │ └── Prefabs/ ├── ProjectSettings/ └── README.md ``` </pre>
----
-
 ## 🧪 Testing & Debugging
 - Debug logs are printed to the Unity Console for tracing possession, and goal events.
 
